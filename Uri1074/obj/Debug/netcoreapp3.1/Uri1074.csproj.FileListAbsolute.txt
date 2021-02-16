@@ -1,0 +1,12 @@
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.exe
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.deps.json
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.runtimeconfig.json
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.runtimeconfig.dev.json
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.dll
+C:\Users\rubem\source\repos\Uri1074\Uri1074\bin\Debug\netcoreapp3.1\Uri1074.pdb
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.AssemblyInfoInputs.cache
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.AssemblyInfo.cs
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.csproj.CoreCompileInputs.cache
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.dll
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.pdb
+C:\Users\rubem\source\repos\Uri1074\Uri1074\obj\Debug\netcoreapp3.1\Uri1074.genruntimeconfig.cache
